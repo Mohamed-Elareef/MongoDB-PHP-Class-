@@ -24,7 +24,7 @@ This is a basic PHP class for handling MongoDB operations. It provides methods f
 
 - update($collection, $filter, $update): This method updates documents in a collection that match a specific filter. It takes three arguments: $collection which is the name of the collection, $filter which is an array of filter criteria, and $update which is an array of update operations to be performed.
 
--delete($collection, $filter): This method deletes documents from a collection that match a specific filter. It takes two arguments: $collection which is the name of the collection, and $filter which is an array of filter criteria.
+- delete($collection, $filter): This method deletes documents from a collection that match a specific filter. It takes two arguments: $collection which is the name of the collection, and $filter which is an array of filter criteria.
 
 
 ## Usage
